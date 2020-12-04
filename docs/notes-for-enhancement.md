@@ -48,7 +48,7 @@ This project is in distraught and an abomination. Following will be some notes t
 
 ---
 
-## Notes from [previous attempt]([solution for assignment 2 by drs-11 · Pull Request #65 · kaustubh-karkare/project-omega · GitHub](https://github.com/kaustubh-karkare/project-omega/pull/65))
+## Notes from [previous attempt](https://github.com/kaustubh-karkare/project-omega/pull/65)
 
 #### Problems:
 
